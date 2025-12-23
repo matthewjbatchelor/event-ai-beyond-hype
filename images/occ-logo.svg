@@ -1,0 +1,20 @@
+<svg width="250" height="80" viewBox="0 0 250 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .occ-text { font-family: 'Arial', sans-serif; font-weight: 700; fill: #ffffff; }
+      .occ-subtitle { font-family: 'Arial', sans-serif; font-weight: 300; fill: #b8a67d; }
+      .occ-box { fill: none; stroke: #b8a67d; stroke-width: 3; }
+    </style>
+  </defs>
+  <!-- Logo box -->
+  <rect x="10" y="10" width="50" height="50" class="occ-box"/>
+  <rect x="15" y="15" width="10" height="10" fill="#b8a67d"/>
+  <rect x="30" y="15" width="10" height="10" fill="#b8a67d"/>
+  <rect x="45" y="15" width="10" height="10" fill="#b8a67d"/>
+  <rect x="15" y="45" width="10" height="10" fill="#b8a67d"/>
+  <rect x="30" y="45" width="10" height="10" fill="#b8a67d"/>
+  <rect x="45" y="45" width="10" height="10" fill="#b8a67d"/>
+  <!-- Text -->
+  <text x="75" y="35" class="occ-text" font-size="28">OC&amp;C</text>
+  <text x="75" y="55" class="occ-subtitle" font-size="12">Strategy consultants</text>
+</svg>
